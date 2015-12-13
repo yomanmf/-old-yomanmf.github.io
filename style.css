@@ -1,0 +1,72 @@
+* {
+	background-color: #F2E9E6;
+}
+
+#left {
+	background-color: white;
+	float: left;
+	position:absolute;	
+	width: 120px;
+	padding-top: 115px;
+}
+
+#right {
+	float: left;
+	position: static;	
+	background-color: white;
+	width: 342px;
+	padding-top:3px;
+	padding-left: 129px;
+}
+
+#card {
+	background-color: white;	
+	height: 282px;
+	width: 510px;
+	border: 1px solid red;
+	box-shadow: 5px 5px 20px black;
+	padding-left: 28px;
+}
+
+#name {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	background-color: white;
+	margin-bottom: 0px;	
+}
+#position {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;	
+	background-color: white;	
+	margin-top: 4px;
+	}
+
+.info {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: white;	
+	line-height: 1.4;
+	margin-top: 49px;
+}
+
+#e-mail {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;	
+	color: #0089D1;
+	background-color: white;
+	text-decoration: none;
+	margin-bottom: 0px;
+}
+#mobile {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;	
+	color: #0089D1;
+	background-color: white;
+	margin-top: 0px;
+	padding-top: 4px;
+}
+a {
+	background-color: white;
+	text-decoration:none;
+	color: #0089D1;
+}
